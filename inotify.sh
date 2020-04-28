@@ -1,5 +1,8 @@
 #!/bin/bash
-#franciscotv
+
+#copyLeft holder: franciscotv
+#license: GPL-3.0-or-later
+
 #script to monitor a dir or file modifications done on it
 #write, change permissions, open, close ...
 #using inotify gnu/linux api function
